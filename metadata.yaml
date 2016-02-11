@@ -1,0 +1,35 @@
+_repo: The-White-Stone_49092
+contributor:
+  creator:
+    editor:
+      agent_name: Chapman, Frederic
+      deathdate: 1918
+      gutenberg_agent_id: '35931'
+      url: http://www.gutenberg.org/2009/agents/35931
+  translator:
+    agent_name: Roche, Charles E. (Charles Emile)
+    gutenberg_agent_id: '8100'
+    url: http://www.gutenberg.org/2009/agents/8100
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Anatole
+    - Thibault, Jacques-Anatole-Francois
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+description: ''
+gutenberg_issued: '2015-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The White Stone
+url: http://www.gutenberg.org/ebooks/49092
