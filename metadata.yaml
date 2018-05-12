@@ -1,4 +1,5 @@
 _repo: The-White-Stone_49092
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -10,6 +11,9 @@ contributor:
     agent_name: Roche, Charles E. (Charles Emile)
     gutenberg_agent_id: '8100'
     url: http://www.gutenberg.org/2009/agents/8100
+covers:
+- cover_type: archival
+  image_path: 49092-h/images/cover.jpg
 creator:
   author:
     agent_name: France, Anatole
@@ -23,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/755
     wikipedia: http://en.wikipedia.org/wiki/Anatole_France
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49092#The-White-Stone
 gutenberg_issued: '2015-05-31'
 gutenberg_type: Text
 identifiers:
